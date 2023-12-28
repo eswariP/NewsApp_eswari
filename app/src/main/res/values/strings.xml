@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsApp_eswari</string>
+    <string name="Main_heading">Main heading display here</string>
+    <string name="news_feed">News Feed</string>
+    <string name="technology">Technology</string>
+    <string name="science">Science</string>
+    <string name="signin">SignIn</string>
+    <string name="home">Home</string>
+    <string name="sports">Sports</string>
+    <string name="health">Health</string>
+    <string name="entertainment">Entertainment</string>
+</resources>
